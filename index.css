@@ -92,6 +92,12 @@ h2{
   margin: 10px 0;
   font-size: 16px;
   text-decoration: none;
+  color: #fff;
+  text-decoration: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  border-bottom: none;
+  -webkit-text-decoration: none;
 }
 
 .contact-info p strong {
@@ -119,11 +125,11 @@ h2 {
   }
 
   .contact-info p {
-    font-size: 20px;
+    font-size: 18px;
     color: white;
   }
 
   h2 {
-    font-size: 36px;
+    font-size: 32px;
   }
 }
